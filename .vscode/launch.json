@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<chat-app>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.vaadin.example.Application",
+            "projectName": "chat-app",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
